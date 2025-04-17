@@ -1,0 +1,14 @@
+# Entorno virtual
+env/
+# Archivos de configuración
+*.pyc
+__pycache__/
+# Archivos de base de datos
+*.sqlite3
+# Archivos de configuración del sistema
+.vscode/
+.idea/
+# Archivos de Django
+*.log
+staticfiles/
+media/
